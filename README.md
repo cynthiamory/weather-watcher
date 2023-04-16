@@ -78,6 +78,7 @@ Assignment was built with:
 - Course: Bootcamp Full Stack Development
 - Instructor: Ali Masqood
 - Tutor: Jose Lopez
+- Learing Assistant Ask BCS Support: Katie @ klewi314
 - Student Peer Help: Abhishek, Jacob G.
 
 
