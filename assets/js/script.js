@@ -175,3 +175,4 @@ $("#search-history").on("click", function(event){
     var lastCity = $(event.target).closest("a").attr("id");
     getCityWeather(lastCity);
 });
+
