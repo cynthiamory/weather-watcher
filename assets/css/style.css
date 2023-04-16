@@ -1,0 +1,19 @@
+/* GOOGLE FONTS TO USE */
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+/* GENERAL STYLING */
+body{
+    background:url('https://images.unsplash.com/photo-1524400968894-6e997a66e03f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80');
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow:hidden;
+    height: 100vh;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    color: aliceblue;
+}
+
+h2{
+    color: black;
+    font-weight: bolder;
+}
